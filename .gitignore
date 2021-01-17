@@ -1,0 +1,11 @@
+# .gitignore for FreeCAD
+# From https://github.com/FreeCAD/FreeCAD-library/blob/master/.gitignore
+*.pyc
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.FCStd2
+Private
+
+# Ignore user local stuff
+local
